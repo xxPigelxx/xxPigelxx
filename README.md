@@ -6,7 +6,7 @@ I like building things people can actually play and use — mostly games, apps a
 
 My main tools are **Godot**, **Blender** and **React Native**, and I write most of my code in **GDScript**, **Python** and **TypeScript**.
 
-My favourite project is **[Spacewrecked](https://pigel.itch.io/spacewrecked)**, a serious game that lets non-dyslexic players experience the cognitive load of reading with dyslexia. Built solo for my bachelor's thesis, including a user study.
+My thesis project is **[Spacewrecked](https://pigel.itch.io/spacewrecked)**, a serious game that lets non-dyslexic players experience the cognitive load of reading with dyslexia. Built solo for my bachelor's thesis, including a user study.
 🎮 More of my games: **[itch.io](https://pigel.itch.io)**
 
 **Fun facts:**
