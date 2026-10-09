@@ -11,5 +11,5 @@ My thesis project is **[Spacewrecked](https://pigel.itch.io/spacewrecked)**, a s
 
 **Fun facts:**
 - I grew up bilingual (German & English)
-- I cook a lot, probably more than I code on weekends
+- I cook a lot.
 - Currently looking for my first role as a developer in Hamburg
