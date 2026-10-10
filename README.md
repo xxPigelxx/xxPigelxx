@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm **Nikolai**, a Media Systems graduate (B.Sc.) based in Hamburg.
+I'm **Nikolai**, a developer based in Hamburg with a background in Media Systems (HAW Hamburg).
 
 I like building things people can actually play and use — mostly games, apps and interactive stuff.
 
